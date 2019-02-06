@@ -1,0 +1,3 @@
+echo "this the test file"
+read name
+echo "$name"
